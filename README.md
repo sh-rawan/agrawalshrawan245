@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there👋, welcome to my repository. 
+### Please check out all of my current and past work.
+### I am currently working on -
+- CodeStudio -> A repository made for the knowledge of data structure.
+- ReactApps
 
 <!--
 **agrawalshrawan245/agrawalshrawan245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
