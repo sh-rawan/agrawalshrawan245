@@ -1,6 +1,8 @@
 ### Hi there👋, welcome to my repository. 
-### Please check out all of my current and past work.
-### I am currently working on -
+
+Please check out all of my current and past work.
+
+I am currently working on -
 - CodeStudio -> A repository made for the knowledge of data structure.
 - ReactApps
 
